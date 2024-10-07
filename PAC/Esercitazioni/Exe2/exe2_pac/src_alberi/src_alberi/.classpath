@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src_albero_binario"/>
+	<classpathentry kind="src" path="src_albero_binario_generics"/>
+	<classpathentry kind="src" path="src_BST"/>
+	<classpathentry kind="src" path="src_BST_generics"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,16 +1,16 @@
-
+ 
 public class AlberoBR extends AlberoBinarioImpl implements Dizionario{
 	
      /*  Metodi accessori */	
 	//Assume che il campo elemento di un nodo sia di tipo "Record"
 	protected Comparable chiave(NodoBinario nodo){
 		if(nodo == null) return null;
-		else return ((Record)nodo.elem).key;	
+		else return ((Record) nodo.elem).key;	
 	}
 	
 	protected Object data(NodoBinario nodo){
 		if(nodo == null) return null;
-		else return ((Record)nodo.elem).data;	
+		else return ((Record) nodo.elem).data;	
 	}
 	
 	/**
@@ -51,7 +51,7 @@ public class AlberoBR extends AlberoBinarioImpl implements Dizionario{
 	 * &egrave; il record scelto arbitrariamente tra quelli con chiave <code>k</code>.
 	 * 
 	 * @param k chiave dell'elemento da ricercare
-	 * @return elemento (l'intero record) di chiave k, null se assente o l'albero è vuoto
+	 * @return elemento (l'intero record) di chiave k, null se assente o l'albero ï¿½ vuoto
 	 */	
 	public Object search (Comparable k){
 		NodoBinario nodo = searchNodo(k,radice);
@@ -80,13 +80,13 @@ public class AlberoBR extends AlberoBinarioImpl implements Dizionario{
 		if(u != null){
 			//u ha al piu' un figlio (o e' foglia o ha un unico figlio)
 			if(u.sinistro == null || u.destro == null){ 
-				contraiNodo(u); //cancellazione effettiva di un nodo con al più un figlio
+				contraiNodo(u); //cancellazione effettiva di un nodo con al piï¿½ un figlio
 			}
 			else{//u ha 2 figli
 				//Si individua il predecessore v di u (il max del sottoalbero sinistro di u)
 				NodoBinario v = max(u.sinistro);
 				scambiaInfo(u,v);			
-				contraiNodo(v); //cancellazione effettiva di un nodo con al più un figlio			
+				contraiNodo(v); //cancellazione effettiva di un nodo con al piï¿½ un figlio			
 			}	
 	   }
 	}
@@ -106,10 +106,6 @@ public class AlberoBR extends AlberoBinarioImpl implements Dizionario{
 				innestaDes(u,albf.pota(v.destro));
 			}
 		}	
-	
-	
-	
-	
 	
 	/**
 	 * Ricerca del nodo con valore max della chiave
