@@ -1,0 +1,3 @@
+C:/Users/mitic/Downloads/E03/E03/1-abstraction_in_c/3-studenti/src/cmake-build-debug/CMakeFiles/src.dir
+C:/Users/mitic/Downloads/E03/E03/1-abstraction_in_c/3-studenti/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Downloads/E03/E03/1-abstraction_in_c/3-studenti/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v6
+45	1218	7579941536625190	CMakeFiles/src.dir/corso.c.obj	3516a692d1a4208f
+125	1241	7579941537413830	CMakeFiles/src.dir/studente.c.obj	7fb46ce9d7b93494
+3	1242	7579941536190344	CMakeFiles/src.dir/adt_studentcorso2.c.obj	2780f81026f6cc41
+1242	1733	7579941548586932	src.exe	63385909782a42bb
