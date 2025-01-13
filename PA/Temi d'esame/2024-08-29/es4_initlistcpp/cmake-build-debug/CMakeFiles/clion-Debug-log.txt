@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\mitic\GitHub\Magistrale\PA\Temi d'esame\2024-08-29\es4_initlistcpp Select CMakeLists.txt

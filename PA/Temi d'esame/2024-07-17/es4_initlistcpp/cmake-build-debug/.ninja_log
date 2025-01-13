@@ -1,0 +1,13 @@
+# ninja log v6
+4	846	7584676047170473	CMakeFiles/es4_initlistcpp.dir/main.cpp.obj	fc6937d27977d88c
+860	1211	7584676055727270	es4_initlistcpp.exe	1d4c4eaa6c6331c0
+55	4042	7584710082837188	CMakeFiles/es4_initlistcpp.dir/main.cpp.obj	fc6937d27977d88c
+4042	6097	7584710122716468	es4_initlistcpp.exe	1d4c4eaa6c6331c0
+44	845	7584710497833925	CMakeFiles/es4_initlistcpp.dir/main.cpp.obj	fc6937d27977d88c
+846	1105	7584710505854603	es4_initlistcpp.exe	1d4c4eaa6c6331c0
+47	817	7584710679641598	CMakeFiles/es4_initlistcpp.dir/main.cpp.obj	fc6937d27977d88c
+818	1073	7584710687353620	es4_initlistcpp.exe	1d4c4eaa6c6331c0
+9	878	7584716322034639	CMakeFiles/es4_initlistcpp.dir/main.cpp.obj	fc6937d27977d88c
+891	1144	7584716330842676	es4_initlistcpp.exe	1d4c4eaa6c6331c0
+40	889	7584716718448054	CMakeFiles/es4_initlistcpp.dir/main.cpp.obj	fc6937d27977d88c
+890	1143	7584716726947120	es4_initlistcpp.exe	1d4c4eaa6c6331c0

@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+
     /**
      * RAW POINTER
      * Operatori new e delete gestiamo l'allocazione e deallocazione della memoria

@@ -1,0 +1,3 @@
+C:/Users/mitic/GitHub/Magistrale/PA/Temi d'esame/2024-08-29/es4_initlistcpp/cmake-build-debug/CMakeFiles/es4_initlistcpp.dir
+C:/Users/mitic/GitHub/Magistrale/PA/Temi d'esame/2024-08-29/es4_initlistcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/GitHub/Magistrale/PA/Temi d'esame/2024-08-29/es4_initlistcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

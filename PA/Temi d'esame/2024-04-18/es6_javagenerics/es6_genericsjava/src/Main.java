@@ -13,7 +13,7 @@ public class Main {
         OrderedSet os2 = new OrderedSet(a2);
         os2.printSet();
 
-        System.out.println(" \n--------------------------------------- ");
+        System.out.println(" \n---------------------------------  ------ ");
         os1.orderObjects();
         os1.printSet();
 
