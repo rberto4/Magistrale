@@ -18,12 +18,22 @@ public class VeicoloIbrido extends Veicolo{
         wVeicoloElettrico.rifornisci(livelloBatteria);
     }
 
-    // mia assunzione, il veicolo ibrido percorre sempre con entrambi i motori, metà in elettrico e metà in combustione
+    // mia assunzione, il veicolo ibrido cerca di percorre il tragitto con il motore elettrico, 
+    // se la batteria si scarica, allora usa il motore a combustione
 
     @Override
     public void percorri(float km) {
-        wVeicoloACombustione.percorri(km/2);
-        wVeicoloElettrico.percorri(km/2);
+        if (km > wVeicoloACombustione.getAutonomia() + wVeicoloElettrico.getAutonomia()){
+            System.out.println("Autonomia insufficiente");
+            return;
+        }
+        if (wVeicoloElettrico.getAutonomia() >= km){
+            wVeicoloElettrico.percorri(km);
+        }else{
+            km = km - wVeicoloElettrico.getAutonomia();
+            wVeicoloElettrico.percorri(wVeicoloElettrico.getAutonomia());
+            wVeicoloACombustione.percorri(km);
+        }
     }
 
 }

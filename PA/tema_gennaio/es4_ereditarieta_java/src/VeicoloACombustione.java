@@ -1,10 +1,7 @@
 public class VeicoloACombustione extends Veicolo implements Alimentazione {
 
     private float wSerbatoio = 0;
-    
-    public float getSerbatoio() {
-        return wSerbatoio;
-    }
+    private static final float kmPerLitro = 10;
 
     public VeicoloACombustione(float serbatoio) {
         this.wSerbatoio = serbatoio;
@@ -14,9 +11,11 @@ public class VeicoloACombustione extends Veicolo implements Alimentazione {
 
     @Override
     public void percorri(float km) {
-        if ((wSerbatoio - km/10) >= 0){
+        if ((wSerbatoio - km/kmPerLitro) >= 0){
             this.km = km;
-            wSerbatoio = wSerbatoio - km/10;
+            wSerbatoio = wSerbatoio - km/kmPerLitro;
+            System.out.println("Percorsi " + km + " km con motore a combustione");
+            System.out.println(" - Serbatoio rimasto: " + wSerbatoio +" litri");
         }else{
             System.out.println("Serbatoio insufficiente");
         }
@@ -25,6 +24,19 @@ public class VeicoloACombustione extends Veicolo implements Alimentazione {
     @Override
     public void rifornisci(float quantita) {
         wSerbatoio += quantita;
+        System.out.println("Serbatoio rifornito di " + quantita + " litri");
+        System.out.println("Autonomia massima: " + wSerbatoio*kmPerLitro + " km");
+
+    }
+
+    @Override
+    public float getAutonomia() {
+       return wSerbatoio * kmPerLitro;
+    }
+
+    @Override
+    public float getLivelloAlimentazione() {
+       return wSerbatoio;
     }
 
 } 
