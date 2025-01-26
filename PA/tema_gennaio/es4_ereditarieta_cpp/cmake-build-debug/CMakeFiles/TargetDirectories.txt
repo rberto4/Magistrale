@@ -1,0 +1,3 @@
+C:/Users/mitic/Documents/GitHub/Magistrale/PA/tema_gennaio/cmake-build-debug/CMakeFiles/tema_gennaio.dir
+C:/Users/mitic/Documents/GitHub/Magistrale/PA/tema_gennaio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Documents/GitHub/Magistrale/PA/tema_gennaio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

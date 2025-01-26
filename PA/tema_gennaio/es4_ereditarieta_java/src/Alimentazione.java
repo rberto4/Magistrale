@@ -3,3 +3,4 @@ public interface Alimentazione {
     float getAutonomia();
     float getLivelloAlimentazione();
 }
+ 

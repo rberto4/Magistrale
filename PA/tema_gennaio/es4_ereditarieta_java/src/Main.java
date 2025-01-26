@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println("--------------------------------------------------");
         // instanziato veicolo ibrido con 20 litri di carburante e 50 punti percentuale di batteria, posso fare 250km max
-        VeicoloIbrido v3 = new VeicoloIbrido(45, 100);
+        VeicoloIbrido v3 = new VeicoloIbrido(35, 20);
         v3.percorri(320);
     }
 }
