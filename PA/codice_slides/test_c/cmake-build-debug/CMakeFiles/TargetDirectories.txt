@@ -1,0 +1,3 @@
+C:/Users/mitic/Desktop/PA_codice_prova/test_c/cmake-build-debug/CMakeFiles/test_c.dir
+C:/Users/mitic/Desktop/PA_codice_prova/test_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Desktop/PA_codice_prova/test_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

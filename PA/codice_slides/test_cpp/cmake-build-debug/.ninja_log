@@ -1,0 +1,5 @@
+# ninja log v6
+13	790	7596956239004132	CMakeFiles/test_cpp.dir/main.cpp.obj	b19046c6819365e6
+1219	1489	7596957905529819	test_cpp.exe	a8f99f575af65d71
+81	1217	7596957894154718	CMakeFiles/test_cpp.dir/main_struct_time.cpp.obj	925a21029e62447c
+31	589	7598477067671621	build.ninja	663435a7abf1d0f6
