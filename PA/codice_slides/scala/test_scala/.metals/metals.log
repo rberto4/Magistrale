@@ -1,0 +1,588 @@
+2025.02.01 18:16:36 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala' for client Visual Studio Code 1.96.4.
+2025.02.01 18:16:38 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+feb 01, 2025 6:16:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.02.01 18:16:39 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.01 18:16:39 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.01 18:16:39 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.01 18:16:39 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.01 18:16:39 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+feb 01, 2025 6:16:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+feb 01, 2025 6:16:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2025.02.01 18:16:49 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\mitic\AppData\Local\Temp\metals8030481617919952315\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.02.01 18:16:49 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.7  (this may take some time)...
+2025.02.01 18:17:02 ERROR [info] [launcher] getting Scala 2.12.20 (for sbt)...
+2025.02.01 18:17:04 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 23.0.2)
+2025.02.01 18:17:07 INFO  [info] loading settings for project test_scala-build-build from metals.sbt...
+2025.02.01 18:17:07 INFO  [info] loading project definition from C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project\project
+2025.02.01 18:17:12 INFO  [info] loading settings for project test_scala-build from metals.sbt...
+2025.02.01 18:17:12 INFO  [info] loading project definition from C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project
+2025.02.01 18:17:18 INFO  [success] Generated .bloop\test_scala-build.json
+2025.02.01 18:17:18 INFO  [success] Total time: 6 s, completed 1 feb 2025, 18:17:18
+2025.02.01 18:17:20 INFO  [info] loading settings for project test_scala from build.sbt...
+2025.02.01 18:17:20 INFO  [info] set current project to hello-world (in build file:/C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/)
+2025.02.01 18:17:27 INFO  [success] Generated .bloop\test_scala.json
+2025.02.01 18:17:27 INFO  [success] Generated .bloop\test_scala-test.json
+2025.02.01 18:17:27 INFO  [success] Total time: 7 s, completed 1 feb 2025, 18:17:27
+2025.02.01 18:17:27 INFO  time: ran 'sbt bloopInstall' in 38s
+2025.02.01 18:17:27 INFO  Attempting to connect to the build server...
+2025.02.01 18:17:27 INFO  No running Bloop server found, starting one.
+feb 01, 2025 6:17:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 18:17:42 INFO  Starting compilation server
+2025.02.01 18:17:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\bsp.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.01 18:17:53 INFO  Attempting to connect to the build server...
+2025.02.01 18:17:53 INFO  Found a Bloop server running
+2025.02.01 18:17:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project\.metals\bsp.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.01 18:17:59 INFO  time: Connected to build server in 32s
+2025.02.01 18:17:59 INFO  Connected to Build server: Bloop v2.0.8
+2025.02.01 18:18:00 INFO  time: Imported build in 0.19s
+2025.02.01 18:18:00 INFO  running doctor check
+2025.02.01 18:18:00 INFO  java targets: test_scala-test, test_scala, test_scala-build
+feb 01, 2025 6:18:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:18:18 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Java indexer failed with and exception. (full report at: C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\.reports\metals-full\2025-02-01\r_failed-idex-java_18-18-18-117.md)
+2025.02.01 18:18:31 INFO  time: indexed workspace in 31s
+2025.02.01 18:18:32 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:18:33 INFO  Deduplicating compilation of test_scala from bsp client 'Metals 1.5.1' (since 48.859s)
+2025.02.01 18:18:33 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:18:33 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$SemanticDbNotFoundException$.<clinit>(DiscoveryFailures.scala:66)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$1(DebugDiscovery.scala:255)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:18:37 INFO  time: compiled test_scala in 3.48s
+2025.02.01 18:18:43 INFO  time: code lens generation in 2.12s
+feb 01, 2025 6:19:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 18:19:31 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\dap-server.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.02.01 18:19:31 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\dap-client.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.02.01 18:19:31 INFO  Starting debug proxy for [Main]
+2025.02.01 18:19:32 INFO  Loaded expression compiler in 563 milliseconds
+feb 01, 2025 6:19:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 18:19:35 INFO  Loaded all sources and classes in 3 seconds
+2025.02.01 18:19:35 INFO  Initialized Scala 3 decoder in 3 milliseconds
+2025.02.01 18:19:35 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51036 .
+2025.02.01 18:19:35 INFO  Attaching to debuggee VM succeeded.
+2025.02.01 18:19:36 INFO  Canceling debug proxy for [Main]
+2025.02.01 18:19:35 INFO  Closing debug server tcp://0.0.0.0:51034
+feb 01, 2025 6:20:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:23:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:23:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:23:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 18:24:02 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:02 INFO  time: compiled test_scala in 0.35s
+2025.02.01 18:24:13 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:13 INFO  time: compiled test_scala in 0.2s
+2025.02.01 18:24:17 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:17 INFO  time: compiled test_scala in 0.25s
+2025.02.01 18:24:19 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:24:19 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:19 INFO  time: compiled test_scala in 0.26s
+2025.02.01 18:24:25 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:24:37 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:37 INFO  time: compiled test_scala in 0.19s
+2025.02.01 18:24:39 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:24:39 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:39 INFO  time: compiled test_scala in 0.19s
+2025.02.01 18:24:44 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:24:46 INFO  time: compiled test_scala in 1.54s
+2025.02.01 18:24:47 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:25:03 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:25:03 INFO  time: compiled test_scala in 0.25s
+2025.02.01 18:25:06 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:25:06 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:25:06 INFO  time: compiled test_scala in 0.17s
+2025.02.01 18:25:18 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:25:18 INFO  time: compiled test_scala in 0.14s
+2025.02.01 18:25:20 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 18:25:20 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:25:20 INFO  time: compiled test_scala in 0.16s
+2025.02.01 18:25:29 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:25:31 INFO  time: compiled test_scala in 1.51s
+2025.02.01 18:25:31 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\dap-server.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.02.01 18:25:31 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\dap-client.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.02.01 18:25:32 INFO  Starting debug proxy for [Main]
+2025.02.01 18:25:32 INFO  Loaded expression compiler in 1 millisecond
+2025.02.01 18:25:35 INFO  Loaded all sources and classes in 2 seconds
+2025.02.01 18:25:35 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.02.01 18:25:35 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51072 .
+2025.02.01 18:25:35 INFO  Attaching to debuggee VM succeeded.
+2025.02.01 18:25:35 INFO  Canceling debug proxy for [Main]
+2025.02.01 18:25:35 INFO  Closing debug server tcp://0.0.0.0:51070
+2025.02.01 18:25:37 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:25:37 INFO  time: compiled test_scala in 0.83s
+2025.02.01 18:25:41 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+feb 01, 2025 6:26:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+feb 01, 2025 6:26:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 496
+feb 01, 2025 6:26:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 633
+feb 01, 2025 6:27:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 716
+feb 01, 2025 6:27:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 718
+feb 01, 2025 6:27:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 735
+feb 01, 2025 6:27:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 741
+2025.02.01 18:27:28 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:27:28 INFO  time: compiled test_scala in 0.21s
+feb 01, 2025 6:27:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+feb 01, 2025 6:27:55 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.reflect.internal.FatalError: 
+  ThisType(method numeroMaiuscole) for sym which is not a class
+     while compiling: file:///C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/src/main/scala/Main.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.12
+    compiler version: version 2.13.12
+  reconstructed args: -classpath C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.bloop\test_scala\bloop-bsp-clients-classes\classes-Metals-wuIwdVa2TkCRLDA-LI0GJA==;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.10.3\semanticdb-javac-0.10.3.jar;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.13\2.3.0\scala-parser-combinators_2.13-2.3.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: EmptyTree
+       tree position: <unknown>
+            tree tpe: <notype>
+              symbol: null
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+ (full report at: C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\.reports\metals-full\2025-02-01\r_compiler-error_(test_scala)_18-27-55-760.md)
+feb 01, 2025 6:27:57 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+feb 01, 2025 6:27:57 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.reflect.internal.FatalError: 
+  ThisType(method numeroMaiuscole) for sym which is not a class
+     while compiling: file:///C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/src/main/scala/Main.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.12
+    compiler version: version 2.13.12
+  reconstructed args: -classpath C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.bloop\test_scala\bloop-bsp-clients-classes\classes-Metals-wuIwdVa2TkCRLDA-LI0GJA==;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.10.3\semanticdb-javac-0.10.3.jar;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.13\2.3.0\scala-parser-combinators_2.13-2.3.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Literal(Constant(()))
+       tree position: line 5 of file:///C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/src/main/scala/Main.scala
+            tree tpe: <error>
+              symbol: null
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     2   val message = "Hello, World!"
+     3   def numeroMaiuscole (s : _CURSOR_S) : Int ={
+     4     var count = s.exists(_.isUpperCase)
+     5   }
+     6 }
+     7  (full report at: C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\.reports\metals-full\2025-02-01\r_compiler-error_(test_scala)_18-27-57-559.md)
+feb 01, 2025 6:27:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+feb 01, 2025 6:27:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.reflect.internal.FatalError: 
+  ThisType(method numeroMaiuscole) for sym which is not a class
+     while compiling: file:///C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/src/main/scala/Main.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.12
+    compiler version: version 2.13.12
+  reconstructed args: -classpath C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.bloop\test_scala\bloop-bsp-clients-classes\classes-Metals-wuIwdVa2TkCRLDA-LI0GJA==;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.10.3\semanticdb-javac-0.10.3.jar;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar;C:\Users\mitic\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.13\2.3.0\scala-parser-combinators_2.13-2.3.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Literal(Constant(()))
+       tree position: line 5 of file:///C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/src/main/scala/Main.scala
+            tree tpe: <error>
+              symbol: null
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     2   val message = "Hello, World!"
+     3   def numeroMaiuscole (s : Strin_CURSOR_g) : Int ={
+     4     var count = s.exists(_.isUpperCase)
+     5   }
+     6 }
+     7  (full report at: C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\.reports\metals-full\2025-02-01\r_compiler-error_(test_scala)_18-27-58-691.md)
+2025.02.01 18:28:04 INFO  compiling test_scala (1 scala source)
+2025.02.01 18:28:04 INFO  time: compiled test_scala in 0.26s
+feb 01, 2025 6:29:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:30:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:30:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:31:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:31:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 6:32:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 23:07:15 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala' for client Visual Studio Code 1.96.4.
+2025.02.01 23:07:25 INFO  no build target found for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.01 23:07:26 INFO  Attempting to connect to the build server...
+2025.02.01 23:07:26 INFO  No running Bloop server found, starting one.
+2025.02.01 23:07:31 INFO  Starting compilation server
+2025.02.01 23:07:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\bsp.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.01 23:07:37 INFO  Attempting to connect to the build server...
+2025.02.01 23:07:37 INFO  Found a Bloop server running
+feb 01, 2025 11:07:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 23:07:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project\.metals\bsp.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.01 23:07:38 INFO  time: Connected to build server in 12s
+2025.02.01 23:07:38 INFO  Connected to Build server: Bloop v2.0.8
+2025.02.01 23:07:38 INFO  time: Imported build in 0.29s
+2025.02.01 23:07:38 INFO  running doctor check
+2025.02.01 23:07:38 INFO  java targets: test_scala-test, test_scala, test_scala-build
+feb 01, 2025 11:07:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2025.02.01 23:07:52 INFO  time: indexed workspace in 14s
+2025.02.01 23:07:53 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:07:56 INFO  time: compiled test_scala in 3.19s
+2025.02.01 23:07:56 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:07:57 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:07:57 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:07:57 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:07:57 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:07:57 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:07:57 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:07:56 INFO  time: compiled test_scala in 0.64s
+2025.02.01 23:07:59 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:08:00 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:08:04 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:08:05 WARN  Could not load snapshot text for C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\src\main\scala\Main.scala
+2025.02.01 23:08:14 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:16 INFO  time: compiled test_scala in 1.83s
+2025.02.01 23:08:18 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+feb 01, 2025 11:08:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 221
+2025.02.01 23:08:35 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:35 INFO  time: compiled test_scala in 0.17s
+2025.02.01 23:08:39 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:39 INFO  time: compiled test_scala in 0.17s
+2025.02.01 23:08:41 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:41 INFO  time: compiled test_scala in 0.17s
+2025.02.01 23:08:44 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 23:08:44 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:44 INFO  time: compiled test_scala in 0.12s
+2025.02.01 23:08:45 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 23:08:44 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:45 INFO  time: compiled test_scala in 0.1s
+2025.02.01 23:08:46 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 23:08:45 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:45 INFO  time: compiled test_scala in 0.11s
+2025.02.01 23:08:45 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 23:08:45 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:45 INFO  time: compiled test_scala in 94ms
+2025.02.01 23:08:47 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1469)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1019)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.02.01 23:08:47 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:08:47 INFO  time: compiled test_scala in 88ms
+2025.02.01 23:09:00 INFO  time: code lens generation in 3.5s
+2025.02.01 23:09:18 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\mitic\AppData\Local\Temp\metals7625483824553769467\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.02.01 23:09:21 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 23.0.2)
+2025.02.01 23:09:21 INFO  [info] loading settings for project test_scala-build-build from metals.sbt...
+2025.02.01 23:09:23 INFO  [info] loading project definition from C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project\project
+feb 01, 2025 11:09:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 23:09:24 INFO  [info] loading settings for project test_scala-build from metals.sbt...
+2025.02.01 23:09:24 INFO  [info] loading project definition from C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project
+feb 01, 2025 11:09:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:09:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 23:09:29 INFO  [success] Generated .bloop\test_scala-build.json
+2025.02.01 23:09:29 INFO  [success] Total time: 5 s, completed 1 feb 2025, 23:09:29
+2025.02.01 23:09:33 INFO  [info] loading settings for project test_scala from build.sbt...
+2025.02.01 23:09:33 INFO  [info] set current project to test_scala (in build file:/C:/Users/mitic/Documents/GitHub/Magistrale/PA/codice_slides/scala/test_scala/)
+2025.02.01 23:09:34 INFO  [success] Generated .bloop\test_scala.json
+2025.02.01 23:09:34 INFO  [success] Generated .bloop\test_scala-test.json
+2025.02.01 23:09:34 INFO  [success] Total time: 1 s, completed 1 feb 2025, 23:09:34
+2025.02.01 23:09:34 INFO  time: ran 'sbt bloopInstall' in 16s
+2025.02.01 23:09:34 INFO  Disconnecting from Bloop session...
+2025.02.01 23:09:34 INFO  Shut down connection with build server.
+2025.02.01 23:09:34 INFO  Shut down connection with build server.
+2025.02.01 23:09:34 INFO  Attempting to connect to the build server...
+2025.02.01 23:09:34 INFO  Found a Bloop server running
+2025.02.01 23:09:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.metals\bsp.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.01 23:09:34 INFO  Attempting to connect to the build server...
+2025.02.01 23:09:34 INFO  Found a Bloop server running
+2025.02.01 23:09:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\project\.metals\bsp.trace.json or C:\Users\mitic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.01 23:09:36 INFO  time: Connected to build server in 1.47s
+2025.02.01 23:09:36 INFO  Connected to Build server: Bloop v2.0.8
+2025.02.01 23:09:36 INFO  running doctor check
+2025.02.01 23:09:36 INFO  java targets: test_scala-test, test_scala, test_scala-build
+2025.02.01 23:09:39 INFO  time: indexed workspace in 3.29s
+2025.02.01 23:09:39 INFO  compiling test_scala (1 scala source)
+2025.02.01 23:09:39 INFO  time: compiled test_scala in 0.14s
+feb 01, 2025 11:10:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:10:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:10:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:10:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:10:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:12:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:12:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:13:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+feb 01, 2025 11:13:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.01 23:13:32 INFO  Shutting down server
+2025.02.01 23:13:32 INFO  shutting down Metals
+2025.02.01 23:13:32 INFO  Shut down connection with build server.
+2025.02.01 23:13:32 INFO  Shut down connection with build server.
+2025.02.01 23:13:32 INFO  Exiting server

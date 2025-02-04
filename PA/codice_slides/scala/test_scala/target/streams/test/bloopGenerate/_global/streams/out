@@ -1,0 +1,4 @@
+[debug] [test_scala-test] Classpath dependencies List()
+[debug] [test_scala-test] Dependencies from configurations List(test_scala)
+[debug] Bloop wrote the configuration of project 'test_scala-test' to 'C:\Users\mitic\Documents\GitHub\Magistrale\PA\codice_slides\scala\test_scala\.bloop\test_scala-test.json'
+[success] Generated .bloop\test_scala-test.json
