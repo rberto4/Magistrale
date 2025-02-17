@@ -1,0 +1,3 @@
+C:/Users/mitic/Desktop/codice_pa_ripasso/cov_inv_controvar/es5_temagennaio/cmake-build-debug/CMakeFiles/es5_temagennaio.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/cov_inv_controvar/es5_temagennaio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/cov_inv_controvar/es5_temagennaio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

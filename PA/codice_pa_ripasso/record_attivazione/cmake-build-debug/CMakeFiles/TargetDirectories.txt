@@ -1,0 +1,3 @@
+C:/Users/mitic/Desktop/codice_pa_ripasso/record_attivazione/cmake-build-debug/CMakeFiles/record_attivazione.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/record_attivazione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/record_attivazione/cmake-build-debug/CMakeFiles/rebuild_cache.dir

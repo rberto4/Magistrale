@@ -1,0 +1,12 @@
+# ninja log v6
+17	442	7614925001318006	build.ninja	ace45e0ddc09a762
+5	189	7614925001807820	CMakeFiles/record_attivazione.dir/main.c.obj	56237e8ae1bffaa6
+191	547	7614925003662533	record_attivazione.exe	20cc75df8f434e8c
+13	199	7614925090924024	CMakeFiles/record_attivazione.dir/main.c.obj	56237e8ae1bffaa6
+200	446	7614925092790111	record_attivazione.exe	20cc75df8f434e8c
+11	275	7614925156876279	CMakeFiles/record_attivazione.dir/main.c.obj	56237e8ae1bffaa6
+276	451	7614925159529788	record_attivazione.exe	20cc75df8f434e8c
+8	405	7614925224263086	CMakeFiles/record_attivazione.dir/main.c.obj	56237e8ae1bffaa6
+406	614	7614925228239748	record_attivazione.exe	20cc75df8f434e8c
+6	214	7614929998202268	CMakeFiles/record_attivazione.dir/main.c.obj	56237e8ae1bffaa6
+215	459	7614930000278243	record_attivazione.exe	20cc75df8f434e8c

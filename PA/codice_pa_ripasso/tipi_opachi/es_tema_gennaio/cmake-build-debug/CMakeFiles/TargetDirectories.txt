@@ -1,0 +1,3 @@
+C:/Users/mitic/Desktop/codice_pa_ripasso/tipi_opachi/es_tema_gennaio/cmake-build-debug/CMakeFiles/es_tema_gennaio.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/tipi_opachi/es_tema_gennaio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/tipi_opachi/es_tema_gennaio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

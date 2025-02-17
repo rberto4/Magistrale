@@ -1,0 +1,3 @@
+C:/Users/mitic/Desktop/codice_pa_ripasso/es_cap12/cmake-build-debug/CMakeFiles/es_cap12.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/es_cap12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mitic/Desktop/codice_pa_ripasso/es_cap12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

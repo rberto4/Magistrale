@@ -1,0 +1,5 @@
+# ninja log v6
+16	262	7611881863624834	CMakeFiles/es_c.dir/main.c.obj	d15f8514b18a1ec3
+48	966	7613401543196256	build.ninja	2b3b2324db60197d
+143	414	7611882280993848	CMakeFiles/es_c.dir/Counter.c.obj	d263fedd997e6db7
+124	425	7611882280800367	CMakeFiles/es_c.dir/CounterModulo.c.obj	36751acb4157253e

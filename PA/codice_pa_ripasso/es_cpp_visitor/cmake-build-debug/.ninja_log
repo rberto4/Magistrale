@@ -1,0 +1,7 @@
+# ninja log v6
+7	656	7615292027612188	build.ninja	2ddc119193f8d0c2
+35	1247	7615292028391106	CMakeFiles/es_cpp_visitor.dir/Spettatore.cpp.obj	61518e30bbbac3fb
+9	1253	7615292028126096	CMakeFiles/es_cpp_visitor.dir/Visitor.cpp.obj	4116bb1fc0cb3a7e
+20	1274	7615292028228263	CMakeFiles/es_cpp_visitor.dir/StampaSpettatoreVisitor.cpp.obj	a747cf6dd2fc04ac
+3	1425	7615292028069196	CMakeFiles/es_cpp_visitor.dir/main.cpp.obj	1fb7b6d787243b6f
+1425	1860	7615292042286971	es_cpp_visitor.exe	d297c7a45305527b
