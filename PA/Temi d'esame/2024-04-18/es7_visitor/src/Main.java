@@ -41,6 +41,32 @@ public class Main {
             menu.get(i).accept(sm_ita);
         }
 
+        stampaCalorie sc_ita = new stampaCalorie(Lingue.ITALIANO);
+        stampaCalorie sc_eng = new stampaCalorie(Lingue.INGLESE);
+        System.out.println(" --- CALORIE IT ---");
+
+        for (int i = 0; i<menu.size(); i++) {
+            menu.get(i).accept(sc_ita);
+        }
+
+        System.out.println(" --- CALORIES ENG ---");
+
+        for (int i = 0; i<menu.size(); i++) {
+            menu.get(i).accept(sc_eng);
+        }
+        System.out.println(" --- mescololo ---");
+
+        Collections.shuffle(menu);
+        for (int i = 0; i<menu.size(); i++) {
+            menu.get(i).accept(sc_ita);
+        }
+        System.out.println(" --- ordino ---");
+
+        Collections.sort(menu);
+        for (int i = 0; i<menu.size(); i++) {
+            menu.get(i).accept(sc_ita);
+        }
+
     }
 
 

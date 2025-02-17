@@ -30,7 +30,7 @@ public class Stack<T> {
         for (T elem : elements) {
             System.out.println(elem);
         }
-    }
+    }   
     public boolean isEmpty(){
         return elements.isEmpty();
     }

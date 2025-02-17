@@ -1,17 +1,14 @@
  #include <stdio.h>
+#include <stdlib.h>
+#include "CounterModulo.h"
 
-// usr defined type time with a struct
-struct Time {
-    int hour;
-    int minute;
-    int second;
-};
-
-void printStandard (const Time &t) {
-    printStandard()
-}
-
-int main(void) {
-    printf("Hello, World!\n");
-    return 0;
+int main (void){
+    int v1;
+    int v2;
+    CounterModulo c1, c2;
+    reset(&c1);
+    reset(&c2);
+    v1 = getValue(c1);
+    v2 = getValue(c2);
+    return EXIT_SUCCESS;
 }
