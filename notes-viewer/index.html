@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appunti Universitari</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Appunti Universitari</div>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Cerca negli appunti...">
+            </div>
+            <div class="nav-links" id="courseLinks">
+                <!-- I link dei corsi verranno generati dinamicamente -->
+            </div>
+            <button id="addCourseBtn" class="add-course-btn">+ Nuovo Corso</button>
+        </nav>
+    </header>
+
+    <div id="addCourseModal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Aggiungi Nuovo Corso</h2>
+            <input type="text" id="newCourseName" placeholder="Nome del corso">
+            <div class="modal-buttons">
+                <button id="confirmAddCourse">Aggiungi</button>
+                <button id="cancelAddCourse">Annulla</button>
+            </div>
+        </div>
+    </div>
+
+    <main>
+        <div id="content">
+            <!-- Il contenuto degli appunti verrà caricato qui -->
+        </div>
+        <div id="pdfViewer" class="hidden">
+            <!-- Il visualizzatore PDF verrà caricato qui -->
+        </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html> 

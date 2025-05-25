@@ -1,0 +1,12 @@
+{
+  "name": "notes-viewer",
+  "version": "1.0.0",
+  "description": "Visualizzatore di appunti universitari",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
