@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author marcovinciguerra
- *
- */
-module Objects {
-}

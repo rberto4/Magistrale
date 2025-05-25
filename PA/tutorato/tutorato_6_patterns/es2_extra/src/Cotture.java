@@ -1,3 +1,0 @@
-public enum Cotture {
-    ALSANGUE,MEDIA,BENCOTTO,MOLTOCOTTO
-}
