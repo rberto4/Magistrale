@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "285efe93d6782b10",
+    "id": "cee6f9eb094310af",
     "type": "split",
     "children": [
       {
-        "id": "e6ff9f77ad54fae3",
+        "id": "b63ed5b10b9fe012",
         "type": "tabs",
         "children": [
           {
-            "id": "52937385711a9a8d",
+            "id": "eae6f7fbd59183f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GASL - riassunto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GASL - riassunto"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04e5937331a1e95f",
+    "id": "621bc1f0ab06c366",
     "type": "split",
     "children": [
       {
-        "id": "4d31fd5fd8caf88c",
+        "id": "6e95605e3d7b0229",
         "type": "tabs",
         "children": [
           {
-            "id": "dc65af4c08c7189b",
+            "id": "cd9bc80eff0f692b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "3f0729979a6d25c0",
+            "id": "e84d07141ba0a5ba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "0bb9294788136095",
+            "id": "6da64755a9d1621f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
-    "id": "4508be1b15e9b157",
+    "id": "68240556c79f2c16",
     "type": "split",
     "children": [
       {
-        "id": "b31962fa16bc4d3f",
+        "id": "c80f256794497dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "62708af6636d91c1",
+            "id": "c94b4e2191200c09",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAD.md",
+                "file": "GASL - riassunto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IMAD"
+              "title": "Backlinks for GASL - riassunto"
             }
           },
           {
-            "id": "d98bdca101f023ad",
+            "id": "d1fcb75b0c98f48d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAD.md",
+                "file": "GASL - riassunto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IMAD"
+              "title": "Outgoing links from GASL - riassunto"
             }
           },
           {
-            "id": "72f61497ad1f2e96",
+            "id": "9280cc357a17c646",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,18 +138,18 @@
             }
           },
           {
-            "id": "6ba344d4a31978c3",
+            "id": "d766811623d8b8f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAD.md",
+                "file": "GASL - riassunto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IMAD"
+              "title": "Outline of GASL - riassunto"
             }
           }
         ]
@@ -157,19 +161,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "52937385711a9a8d",
+  "active": "eae6f7fbd59183f5",
   "lastOpenFiles": [
-    "GASL.md",
-    "IMAD.md",
-    "Welcome.md"
+    "Untitled.base",
+    "2025-08-22.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "GASL - riassunto.md"
   ]
 }
