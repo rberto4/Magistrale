@@ -1,0 +1,1 @@
+Lo scopo del learning è quello di estrarre una "lezione" dal passato
